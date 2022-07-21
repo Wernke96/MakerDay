@@ -1,1 +1,10 @@
-*.idea
+deploy
+deploy/*
+deploy
+.idea/*
+.idea
+/dist/
+/node_modules/
+/dist/deploy
+/dist/deploy/*
+.env
