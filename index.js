@@ -9,4 +9,4 @@ const controller = require('./router');
 
 
 
-app.post('/message', controller.message);
+app.get('/message', controller.message);
